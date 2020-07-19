@@ -2,9 +2,9 @@
 ##### COO / CFO / CSO / CIO / CTO
 ##### VP (cooparate/ senior/ associate)
 ##### Director (senior, associate, chief)
-##### Architect (principle/ senior) / Manager (product / project / module / QA / senior / associate) / Technology specialist
-##### Lead (Technical, Techonology, Module, Team, Porject, Product)
-##### Software Engineer (senior, associate, QA) / Technology Analyst / full stack Developer / R&D
-##### Software Developer / Programmer / QA Engineer / Software Engineer
-##### Trainee (Software, associate) / Junior Defveloper / junior software engineer
+##### Architect (principle/ senior) / Manager (product / project / module / QA / senior / associate) / Technology specialist ### (8+ years)
+##### Lead (Technical, Techonology, Module, Team, Porject, Product) ### (5+ years)
+##### Software Engineer (senior, associate, QA) / Technology Analyst / full stack Developer / R&D ### (5+ years)
+##### Software Developer / Programmer / QA Engineer / Software Engineer ### (1-8 years)
+##### Trainee (Software, associate) / Junior Defveloper / junior software engineer ### (0-3 years)
 
